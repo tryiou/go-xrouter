@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/blocknetdx/go-xrouter/blockcfg"
-	"github.com/blocknetdx/go-xrouter/xrouter"
+	"github.com/tryiou/go-xrouter/blockcfg"
+	"github.com/tryiou/go-xrouter/xrouter"
 )
 
 func main() {
