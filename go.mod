@@ -1,9 +1,9 @@
-module github.com/blocknetdx/go-xrouter
+module github.com/tryiou/go-xrouter
 
-go 1.14
+go 1.21.0
 
 require (
-	github.com/btcsuite/btcd v0.0.0-00010101000000-000000000000
+	github.com/btcsuite/btcd v0.23.4
 	github.com/google/uuid v1.1.1
 )
 
