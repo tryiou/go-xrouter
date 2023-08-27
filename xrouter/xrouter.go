@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/blocknetdx/go-xrouter/sn"
+	"github.com/tryiou/go-xrouter/sn"
 	"github.com/btcsuite/btcd/addrmgr"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/connmgr"
